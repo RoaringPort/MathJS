@@ -2,9 +2,12 @@
   "name": "mathjs",
   "version": "0.0.1",
   "description": "A Math library for JavaScript",
-  "main": "src/main.js",
+  "main": "src/main.ts",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "run": "ts-node src/main.ts",
+    "dev": "npx nodemon src/main.ts --exec ts-node",
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
