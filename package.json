@@ -1,0 +1,23 @@
+{
+  "name": "mathjs",
+  "version": "0.0.1",
+  "description": "A Math library for JavaScript",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RoaringPort/MathJS.git"
+  },
+  "keywords": [
+    "math",
+    "javascript"
+  ],
+  "author": "RoaringPort",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RoaringPort/MathJS/issues"
+  },
+  "homepage": "https://github.com/RoaringPort/MathJS#readme"
+}
